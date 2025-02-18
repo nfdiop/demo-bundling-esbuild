@@ -1,4 +1,3 @@
-// File: src/App.tsx
 import React from 'react';
 import data from './data.json';
 import { formatName } from './utils';
