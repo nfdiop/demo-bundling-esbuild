@@ -1,4 +1,4 @@
-This package was created to illustrate my article [TODO](TODO).
+This package was created to illustrate my article [✨ Module Bundlers, Demystified: What You Actually Need to Know](https://www.frontendjoy.com/p/module-bundlers-demystified-what-you-actually-need-to-know).
 
 ## Installation
 ```bash
